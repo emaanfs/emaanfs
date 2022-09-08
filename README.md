@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emaanfs
 - 👀 I’m interested in learning cyber security
 - 🌱 I’m currently learning creative computing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking foward to learn the basics of python 
 - 📫 How to reach me ...
 
 <!---
